@@ -8,6 +8,9 @@ module.exports = {
                 notoserifjp: ["Noto+Serif+JP"],
                 poppins: ["Poppins"],
             },
+            backgroundImage: {
+                "id-background": "url('/img/flag.png')",
+            },
         },
     },
     plugins: [],
